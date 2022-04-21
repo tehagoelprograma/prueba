@@ -6,6 +6,7 @@ public class Ejemplo {
 
 		System.out.println("hola mundo git");
 		String h = "Carlos";
+		Strig g= "gomez";
 	}
 
 }
